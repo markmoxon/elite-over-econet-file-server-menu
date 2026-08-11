@@ -28,7 +28,7 @@ If you have an Econet network with a Pi Econet Bridge, then you can visit the El
 *I AM 63.13 BOOT
 ```
 
-This will run the menu system in this repository. You can find out more about the Elite over Econet fileserver from the menu, or by visiting the [bbcelite.com website](https://elite.bbcelite.com/hacks/elite_over_econet.html).
+This will run the menu system in this repository. You can find out more about the Elite over Econet fileserver from the menu, or by visiting the [bbcelite.com website](https://elite.bbcelite.com/hacks/elite_over_econet/).
 
 ## Acknowledgements
 
