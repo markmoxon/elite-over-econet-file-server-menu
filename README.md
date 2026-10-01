@@ -1,4 +1,4 @@
-# Elite over Econet fileserver menu
+# Elite over Econet file server menu
 
 <details>
 <summary>Links to my other software archaeology repositories</summary>
@@ -12,23 +12,23 @@
 
 **Other sources:** [Aviator (BBC Micro)](https://github.com/markmoxon/aviator-source-code-bbc-micro) | [Revs (BBC Micro)](https://github.com/markmoxon/revs-source-code-bbc-micro) | [The Sentinel (BBC Micro)](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | [Lander (Acorn Archimedes)](https://github.com/markmoxon/lander-source-code-acorn-archimedes)
 
-**Other repositories:** [Scripts for generating bbcelite.com](https://github.com/markmoxon/bbcelite-scripts) | [Static content for bbcelite.com](https://github.com/markmoxon/bbcelite-websites) | [Elite source code library](https://github.com/markmoxon/elite-source-code-library) | [Elite Universe Editor library](https://github.com/markmoxon/elite-universe-editor-library) | [Elite over Econet fileserver menu](https://github.com/markmoxon/elite-over-econet-fileserver-menu)
+**Other repositories:** [Scripts for generating bbcelite.com](https://github.com/markmoxon/bbcelite-scripts) | [Static content for bbcelite.com](https://github.com/markmoxon/bbcelite-websites) | [Elite source code library](https://github.com/markmoxon/elite-source-code-library) | [Elite Universe Editor library](https://github.com/markmoxon/elite-universe-editor-library) | [Elite over Econet file server menu](https://github.com/markmoxon/elite-over-econet-file-server-menu)
 
 See [my profile](https://github.com/markmoxon) for more repositories to explore.
 <hr>
 </details>
 
-This repository contains source code for the Elite over Econet fileserver on the TNMoC Econet Cloud. It uses routines from [Teletext Elite](https://github.com/markmoxon/teletext-elite) to display rotating ships in the BBC Micro's mode 7, and adds a simple menu showing the options available on the server.
+This repository contains source code for the Elite over Econet file server on the TNMoC Econet Cloud. It uses routines from [Teletext Elite](https://github.com/markmoxon/teletext-elite) to display rotating ships in the BBC Micro's mode 7, and adds a simple menu showing the options available on the server.
 
-![Screenshot of the Elite over Econet fileserver menu](https://elite.bbcelite.com/images/elite_over_econet/fileserver_menu.png)
+![Screenshot of the Elite over Econet file server menu](https://elite.bbcelite.com/images/elite_over_econet/file_server_menu.png)
 
-If you have an Econet network with a Pi Econet Bridge, then you can visit the Elite over Econet fileserver on the TNMoC Econet Cloud like this:
+If you have an Econet network with a Pi Econet Bridge, then you can visit the Elite over Econet file server on the TNMoC Econet Cloud like this:
 
 ```
 *I AM 63.13 BOOT
 ```
 
-This will run the menu system in this repository. You can find out more about the Elite over Econet fileserver from the menu, or by visiting the [bbcelite.com website](https://elite.bbcelite.com/hacks/elite_over_econet/).
+This will run the menu system in this repository. You can find out more about the Elite over Econet file server from the menu, or by visiting the [bbcelite.com website](https://elite.bbcelite.com/hacks/elite_over_econet/).
 
 ## Acknowledgements
 
